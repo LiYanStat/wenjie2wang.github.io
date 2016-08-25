@@ -8,7 +8,7 @@ title: Home
 I am trying hard pursuing my Ph.D. degree in statistics at University of
 Connecticut currently.
 
-I like statistical thinking and have great enthusiasm in
+I like statistical thinking and have great enthusiasm for
 programming, mostly in [R](http://www.r-project.org/).
 Consequently, I have been developing and maintaining several R packages and
 code for some statistical <a href="{{site.baseurl}}/projects">projects</a>.
@@ -17,14 +17,14 @@ and/or data scientists.
 
 I enjoy using [Emacs](https://www.gnu.org/software/emacs/)
 and [Arch Linux](https://www.archlinux.org/) every day.
-I would like to contribute more to open source efforts as I learned more.
+I would like to contribute more to open source efforts as I learn more.
 
-One of my favorite statistical concept is martingale learned from advanced
-probability theory since
+One of my favorite statistical concepts is martingale learned from probability
+theory since
 
 > In a sense life itself is a martingale.
 
-Formulated by the Nobel Prize winner of 2002, Imre Kert‌&#233;sz, in his book
+Formulated by the Nobel Prize laureate of 2002, Imre Kert‌&#233;sz, in his book
 *Ad kudarc* with the Swedish title *Fiasko*:
 
 > It is not the future that is expecting me, just the next moment, the future
