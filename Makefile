@@ -1,6 +1,6 @@
 render:
 	jekyll build;\
-	jekyll serve --detach
+	jekyll serve --watch
 
 pkill:
 	pkill -f jekyll
