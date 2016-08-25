@@ -19,7 +19,17 @@ I enjoy using [Emacs](https://www.gnu.org/software/emacs/)
 and [Arch Linux](https://www.archlinux.org/) every day.
 I would like to contribute more to open source efforts as I learned more.
 
+One of my favorite statistical concept is martingale learned from advanced
+probability theory since
 
+> In a sense life itself is a martingale.
+
+Formulated by the Nobel Prize winner of 2002, Imre Kert‌&#233;sz, in his book
+*Ad kudarc* with the Swedish title *Fiasko*:
+
+> It is not the future that is expecting me, just the next moment, the future
+> does not exist, it is nothing but a perpetual ongoing, a present now. The
+> prediction for my future---is the quality of my present.
 
 
 
