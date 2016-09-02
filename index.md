@@ -5,15 +5,14 @@ title: Home
 
 ## Welcome
 
-I am trying hard pursuing my Ph.D. degree in statistics at University of
+I am pursuing my Ph.D. degree in statistics at University of
 Connecticut currently.
 
-I like statistical thinking and have great enthusiasm for
-programming, mostly in [R](http://www.r-project.org/).
-Consequently, I have been developing and maintaining several R packages and
-code for some statistical <a href="{{site.baseurl}}/projects">projects</a>.
-I believe it is really an exciting and challenging world for statisticians
-and/or data scientists.
+I like statistical thinking and have great enthusiasm for programming, mostly in
+[R](http://www.r-project.org/).  Consequently, I have been developing and
+maintaining a few R packages and code for some statistical
+<a href="{{site.baseurl}}/projects">projects</a>.  I believe it is really an
+exciting and challenging world for statisticians and/or data scientists.
 
 I enjoy using [Emacs](https://www.gnu.org/software/emacs/)
 and [Arch Linux](https://www.archlinux.org/) every day.
@@ -31,6 +30,7 @@ Formulated by the Nobel Prize laureate of 2002, Imre Kert‌&#233;sz, in his boo
 > does not exist, it is nothing but a perpetual ongoing, a present now. The
 > prediction for my future---is the quality of my present.
 
+<!-- How inspiring it is! I bet you know what you should do now, right? -->
 
 
 <!-- <body class="sidebar-overlay">

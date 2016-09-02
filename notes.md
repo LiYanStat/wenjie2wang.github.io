@@ -5,7 +5,7 @@ title: Notes
 
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories.notes %}
     <li>
       <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
       <!-- <p>{{post.excerpt}}</p> -->
