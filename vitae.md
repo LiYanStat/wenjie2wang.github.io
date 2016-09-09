@@ -1,6 +1,0 @@
----
-layout: page
-title: Vitae
----
-
-
