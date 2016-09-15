@@ -15,8 +15,11 @@ maintaining a few R packages and code for some statistical
 exciting and challenging world for statisticians and/or data scientists.
 
 I enjoy using [Emacs](https://www.gnu.org/software/emacs/)
-and [Arch Linux](https://www.archlinux.org/) every day.
-I would like to contribute more to open source efforts as I learn more.
+and [Arch Linux](https://www.archlinux.org/) every day.  I would like to
+contribute more to open source efforts as I learn more.  However, sitting and
+coding in front of laptop all day long is definitely not the life style I want
+to have. So I cook for myself almost every day and do physical workouts
+every other day to stay away from my laptops for a couple of hours.
 
 One of my favorite statistical concepts is martingale learned from probability
 theory since
@@ -30,8 +33,8 @@ Formulated by the Nobel Prize laureate of 2002, Imre Kert‌&#233;sz, in his boo
 > does not exist, it is nothing but a perpetual ongoing, a present now. The
 > prediction for my future---is the quality of my present.
 
-<!-- How inspiring it is! I bet you know what you should do now, right? -->
 
+<!-- How inspiring it is! I bet you know what you should do now, right? -->
 
 <!-- <body class="sidebar-overlay">
      <div class="posts">
