@@ -13,20 +13,28 @@ title: Projects
 <th style="text-align: center">CRAN Version</th>
 <th style="text-align: center">Build Status</th>
 <th style="test-align: center">Code Coverage</th>
-<th style="text-align: center">Downloads</th>
+<th style="text-align: center">Downloads
+    <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></th>
 <th style="text-align: center">Development</th>
 <th style="text-align: center">Role</th>
 </tr>
 </thead>
-<tfoot>
-    <tr>
-        <td colspan="7"> <strong>Downloads</strong> are from the Rstudio CRAN mirror only.
-            <strong>aut:</strong> author;
-            <strong>cre:</strong> creator (or current maintainer);
-            <strong>ctb:</strong> contributor.
-        </td>
-    </tr>
-</tfoot>
+<!-- <tfoot>
+     <tr>
+     <td colspan="7">
+     <div class="footnotes">
+     <ol>
+     <li id="fn:1">
+     <p><strong>Downloads</strong> are from the Rstudio CRAN mirror opnly.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+     </li>
+     </ol>
+     </div>
+     <strong>aut:</strong> author;
+     <strong>cre:</strong> creator (or current maintainer);
+     <strong>ctb:</strong> contributor.
+     </td>
+     </tr>
+     </tfoot> -->
 <tbody>
 <tr>
 <td style="text-align: center">
@@ -56,7 +64,10 @@ title: Projects
         <img src="https://travis-ci.org/wenjie2wang/splines2.svg?branch=dev" alt="Development"/>
     </a>
 </td>
-<td style="text-align: center">aut, cre</td>
+<td style="text-align: center">
+    <abbr title="one of the authors">aut</abbr>,
+    <abbr title="creator or current maintainer">cre</abbr>
+</td>
 </tr>
 <tr>
 <td style="text-align: center">
@@ -87,7 +98,10 @@ title: Projects
         <img src="https://travis-ci.org/wenjie2wang/reda.svg?branch=dev" alt="Development"/>
     </a>
 </td>
-<td style="text-align: center">aut, cre</td>
+<td style="text-align: center">
+    <abbr title="one of the authors">aut</abbr>,
+    <abbr title="creator or current maintainer">cre</abbr>
+</td>
 </tr>
 <tr>
 <td style="text-align: center">
@@ -112,7 +126,10 @@ title: Projects
         <img src="https://travis-ci.org/wenjie2wang/dynsurv.svg?branch=dev" alt="Development"/>
     </a>
 </td>
-<td style="text-align: center">aut, cre</td>
+<td style="text-align: center">
+        <abbr title="one of the authors">aut</abbr>,
+        <abbr title="creator or current maintainer">cre</abbr>
+</td>
 </tr>
 <tr>
 <td style="text-align: center">
@@ -129,10 +146,20 @@ title: Projects
     <img src="http://cranlogs.r-pkg.org/badges/touch" alt="Monthly Downloads"/>
 </td>
 <td style="text-align: center"> n/a </td>
-<td style="text-align: center">ctb</td>
+<td style="text-align: center">
+    <abbr title="one of the contributors">ctb</abbr>
+</td>
 </tr>
 </tbody>
 </table>
+
+<div class="footnotes">
+    <ol>
+        <li id="fn:1">
+            <p><strong>Downloads</strong> are from the Rstudio CRAN mirror only.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+        </li>
+    </ol>
+</div>
 
 
 ### [**splines2**][github-splines2]: Regression Spline Functions and Classes Too {#splines2}
@@ -175,8 +202,13 @@ currently contains functions to map ICD9 code to AHRQ comorbidity measures.
 
 ## Coursework
 
-+ <a href="{{site.baseurl}}/stco">STCO</a>:
-  STatistical COmputing course in attended Spring 2016
++ Statistical Computing
+  <a href="{{site.baseurl}}/stco">(STCO)</a>
+  course attended in Spring 2016.
+
++ <a href="{{site.baseurl}}/math5800">Financial Programming</a>,
+  and <a href="{{site.baseurl}}/math5800/project">Data Mining</a>
+  course attended in Fall 2016.
 
 
 [CRAN]: https://CRAN.R-project.org
