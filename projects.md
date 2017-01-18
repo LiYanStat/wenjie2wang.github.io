@@ -47,7 +47,8 @@ title: Projects
 </td>
 <td style="text-align: center">
     <a href="https://travis-ci.org/wenjie2wang/splines2">
-        <img src="https://travis-ci.org/wenjie2wang/splines2.svg?branch=master" alt="Build Status"/>
+        <img src="https://travis-ci.org/wenjie2wang/splines2.svg?branch=master"
+            alt="Build Status"/>
     </a>
 </td>
 <td style="text-align: center">
@@ -57,11 +58,13 @@ title: Projects
     </a>
 </td>
 <td style="text-align: center">
-    <img src="http://cranlogs.r-pkg.org/badges/splines2" alt="Monthly Downloads"/>
+    <img src="http://cranlogs.r-pkg.org/badges/grand-total/splines2"
+        alt="Total Downloads"/>
 </td>
 <td style="text-align: center">
     <a href="https://github.com/wenjie2wang/splines2">
-        <img src="https://travis-ci.org/wenjie2wang/splines2.svg?branch=dev" alt="Development"/>
+        <img src="https://travis-ci.org/wenjie2wang/splines2.svg?branch=dev"
+            alt="Development"/>
     </a>
 </td>
 <td style="text-align: center">
@@ -80,7 +83,8 @@ title: Projects
 </td>
 <td style="text-align: center">
     <a href="https://travis-ci.org/wenjie2wang/reda">
-        <img src="https://travis-ci.org/wenjie2wang/reda.svg?branch=master" alt="Build Status"/>
+        <img src="https://travis-ci.org/wenjie2wang/reda.svg?branch=master"
+            alt="Build Status"/>
     </a>
 </td>
 <!-- <td style="text-align: center">
@@ -91,11 +95,13 @@ title: Projects
      </td> -->
 <td style="text-align: center"> n/a </td>
 <td style="text-align: center">
-    <img src="http://cranlogs.r-pkg.org/badges/reda" alt="Monthly Downloads"/>
+    <img src="http://cranlogs.r-pkg.org/badges/grand-total/reda"
+        alt="Total Downloads"/>
 </td>
 <td style="text-align: center">
     <a href="https://github.com/wenjie2wang/reda">
-        <img src="https://travis-ci.org/wenjie2wang/reda.svg?branch=dev" alt="Development"/>
+        <img src="https://travis-ci.org/wenjie2wang/reda.svg?branch=dev"
+            alt="Development"/>
     </a>
 </td>
 <td style="text-align: center">
@@ -114,12 +120,14 @@ title: Projects
 </td>
 <td style="text-align: center">
     <a href="https://travis-ci.org/wenjie2wang/dynsurv">
-        <img src="https://travis-ci.org/wenjie2wang/dynsurv.svg?branch=master" alt="Build Status"/>
+        <img src="https://travis-ci.org/wenjie2wang/dynsurv.svg?branch=master"
+            alt="Build Status"/>
     </a>
 </td>
 <td style="text-align: center"> n/a </td>
 <td style="text-align: center">
-    <img src="http://cranlogs.r-pkg.org/badges/dynsurv" alt="Monthly Downloads"/>
+    <img src="http://cranlogs.r-pkg.org/badges/grand-total/dynsurv"
+    alt="Total Downloads"/>
 </td>
 <td style="text-align: center">
     <a href="https://github.com/wenjie2wang/dynsurv">
@@ -143,7 +151,8 @@ title: Projects
 <td style="text-align: center"> n/a </td>
 <td style="text-align: center"> n/a </td>
 <td style="text-align: center">
-    <img src="http://cranlogs.r-pkg.org/badges/touch" alt="Monthly Downloads"/>
+    <img src="http://cranlogs.r-pkg.org/badges/grand-total/touch"
+        alt="Total Downloads"/>
 </td>
 <td style="text-align: center"> n/a </td>
 <td style="text-align: center">
@@ -156,7 +165,7 @@ title: Projects
 <div class="footnotes">
     <ol>
         <li id="fn:1">
-            <p><strong>Downloads</strong> are from the Rstudio CRAN mirror only.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+            <p>Downloads from the Rstudio CRAN mirror only.&nbsp;<a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
         </li>
     </ol>
 </div>
