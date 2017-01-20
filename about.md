@@ -12,9 +12,10 @@ subject to updates and any possible correction.  So for your own sake, please do
 not take everything for granted.
 
 
-Technically, this site is powered by [GitHub](https://github.com/)
+Technically, this site is mainly powered by [GitHub](https://github.com/)
 and [Jekyll](http://jekyllrb.com/). The layouts are constructed based
 on [Lanyon](http://lanyon.getpoole.com/) theme with minor customization.
+The comments are powered by [Disqus](https://disqus.com).
 
 
 
