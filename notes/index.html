@@ -1,0 +1,29 @@
+---
+layout: page
+title: Notes
+---
+
+<div class="container">
+<nav>
+    By <strong><a href="{{ site.baseurl }}/notes">Posted Time
+    </a></strong> |
+    <strong><a href="{{ site.baseurl }}/notes/category">
+        Category
+    </a></strong>
+</nav>
+&nbsp;
+</div>
+
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">
+            {{ post.date | date:"%Y-%m-%d" }}
+        </time>
+        &nbsp;
+        <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">
+            {{ post.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
