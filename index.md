@@ -5,8 +5,10 @@ title: Home
 
 ## Welcome
 
-I am pursuing my Ph.D. degree in statistics at University of
-Connecticut currently.
+I have been pursuing my Ph.D. degree in statistics at University of Connecticut
+since Fall 2014.  I earned my B.S. degree in Statistics and an outstanding
+graduate award at [Tongji University](http://www.tongji.edu.cn/english/),
+Shanghai, China in 2014.
 
 I like statistical thinking and have great enthusiasm for programming, mostly in
 [R](http://www.r-project.org/).  Consequently, I have been developing and
