@@ -5,20 +5,19 @@ title: Home
 
 ## Welcome
 
-I have been pursuing my Ph.D. degree in statistics at University of Connecticut
-since Fall 2014.  I earned my B.S. degree in Statistics and an outstanding
-graduate award at [Tongji University](http://www.tongji.edu.cn/english/),
+I have been pursuing my Ph.D. degree in statistics
+at [University of Connecticut][uconn] since Fall 2014.  I earned my B.S. degree
+in Statistics and an outstanding graduate award at [Tongji University][tongji],
 Shanghai, China in 2014.
 
-I like statistical thinking and have great enthusiasm for programming, mostly in
-[R](http://www.r-project.org/).  Consequently, I have been developing and
-maintaining a few R packages and code for some statistical
-<a href="{{site.baseurl}}/projects">projects</a>.  I believe it is really an
+I like statistical thinking and have great enthusiasm for programming, mostly
+in [R][r].  Consequently, I have been developing and maintaining a few R
+packages and code for some statistical <a
+href="{{site.baseurl}}/projects">projects</a>.  I believe it is really an
 exciting and challenging world for statisticians and/or data scientists.
 
-I enjoy using [Emacs](https://www.gnu.org/software/emacs/)
-and [Arch Linux](https://www.archlinux.org/) every day.  I would like to
-contribute more to open source efforts as I learn more.
+I enjoy using [Emacs][emacs] and [Arch Linux][archlinux] every day.  I would
+like to contribute more to open source efforts as I learn more.
 
 Sitting and coding in front of monitor all day long is definitely not the life
 style I want to have. So I cook for myself almost every day and do physical
@@ -88,3 +87,10 @@ Formulated by the Nobel Prize laureate of 2002, Imre Kert‌&#233;sz, in his boo
      {% endif %}
      </div>
    -->
+
+
+[uconn]: http://stat.uconn.edu/
+[tongji]: http://www.tongji.edu.cn/english/
+[r]: https://cran.r-project.org/
+[emacs]: https://www.gnu.org/software/emacs/
+[archlinux]: https://www.archlinux.org/
